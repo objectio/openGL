@@ -1,0 +1,20 @@
+mingw
+
+cmake -B build -G "MinGW Makefiles"
+cd build
+make
+
+싱글스레드를 염두
+
+GLFW
+gles = 
+
+linker
+
+[reference]
+https://learnopengl.com/
+openGL Super Bible
+3차원 컴퓨터 그래픽스 입문
+
+[Next meeting]
+C++로 랩핑해오기
