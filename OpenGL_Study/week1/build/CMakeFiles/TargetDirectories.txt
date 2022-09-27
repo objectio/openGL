@@ -1,3 +1,0 @@
-C:/Users/youth_journey/openGL/build/CMakeFiles/hello_cmake_executable.dir
-C:/Users/youth_journey/openGL/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/youth_journey/openGL/build/CMakeFiles/ZERO_CHECK.dir

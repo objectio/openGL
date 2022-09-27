@@ -1,4 +1,0 @@
-# Hashes of file build rules.
-9f325002709e08b0ed6393b95ee8b592 glfw-3.3.8/CMakeFiles/uninstall
-32151dce722b381d3a525577303591b1 glfw-3.3.8/docs/CMakeFiles/docs
-d342774ccef95b50680a34e63eb48b53 glfw-3.3.8/src/CMakeFiles/update_mappings
